@@ -2,6 +2,13 @@
 
 ---
 
+## [0.3.0] - 2026-03-08
+
+### Added
+- Criação da API de consulta de municípios (#7)
+
+---
+
 ## [0.2.0] - 2026-03-08
 
 ### Added
