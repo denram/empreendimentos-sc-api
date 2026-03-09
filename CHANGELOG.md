@@ -2,6 +2,13 @@
 
 ---
 
+## [0.5.0] - 2026-03-09
+
+### Added
+- Criação da API REST de CRUD para Empreendimentos (#11)
+
+---
+
 ## [0.4.0] - 2026-03-09
 
 ### Added
