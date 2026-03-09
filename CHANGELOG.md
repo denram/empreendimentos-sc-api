@@ -2,6 +2,13 @@
 
 ---
 
+## [0.4.0] - 2026-03-09
+
+### Added
+- Criação da migration Flyway da tabela empreendimento (#9)
+
+---
+
 ## [0.3.0] - 2026-03-08
 
 ### Added
