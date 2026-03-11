@@ -2,6 +2,13 @@
 
 ---
 
+## [0.7.0] - 2026-03-11
+
+### Added
+- Configuração do banco via variáveis de ambiente (#15)
+
+---
+
 ## [0.6.0] - 2026-03-09
 
 ### Added
