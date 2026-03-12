@@ -1,4 +1,10 @@
 # Changelog
+---
+
+## [0.9.0] - 2026-03-12
+
+### Added
+- [#19](https://github.com/denram/empreendimentos-sc-api/issues/19) - Adicão do link do vídeo pitch no README.md
 
 ---
 
