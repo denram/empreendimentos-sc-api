@@ -16,7 +16,7 @@ A proposta é demonstrar uma implementação backend organizada, seguindo boas p
 
 Vídeo de apresentação da solução desenvolvida, com demonstração das principais funcionalidades e decisões técnicas adotadas:
 
-- [Assistir no YouTube](COLE_AQUI_O_LINK)
+- [Assistir no YouTube](https://youtu.be/9UvqKrZG_FA)
 
 ---
 
