@@ -104,7 +104,7 @@ Ou gerar o artefato e executar:
 
 ```bash
 mvn clean package
-java -jar target/empreendimentos-sc-api-0.8.0.jar
+java -jar target/empreendimentos-sc-api-1.0.0.jar
 ```
 
 **Validar a inicialização**

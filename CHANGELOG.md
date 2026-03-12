@@ -1,4 +1,12 @@
 # Changelog
+
+---
+
+## [1.0.0] - 2026-03-12
+
+### Added
+- [#21](https://github.com/denram/empreendimentos-sc-api/issues/21) - Atualização da versão do projeto para 1.0.0
+
 ---
 
 ## [0.9.0] - 2026-03-12
